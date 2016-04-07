@@ -3,3 +3,5 @@
 
 ### 文章导航
 [【前端性能】浅谈域名发散与域名收敛](https://github.com/chokcoco/cnblogsArticle/issues/1)
+
+[【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
