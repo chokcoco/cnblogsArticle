@@ -8,6 +8,10 @@
 
 [【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
 
+[【CSS进阶】原生JS getComputedStyle等方法解析](https://github.com/chokcoco/cnblogsArticle/issues/5)
+
+[【基础进阶】URL详解与URL编码](https://github.com/chokcoco/cnblogsArticle/issues/6)
+
 #### jQuery 源码分析
 [【深入浅出jQuery】源码浅析--整体架构 ](https://github.com/chokcoco/cnblogsArticle/issues/3)
 
