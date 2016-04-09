@@ -6,11 +6,16 @@
 ## 文章导航
 [【前端性能】浅谈域名发散与域名收敛](https://github.com/chokcoco/cnblogsArticle/issues/1)
 
+[【优雅代码】深入浅出 妙用Javascript中apply、call、bind](https://github.com/chokcoco/cnblogsArticle/issues/8)
+
 [【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
+
+[【nodeJS爬虫】前端爬虫系列 -- 小爬「博客园」](https://github.com/chokcoco/cnblogsArticle/issues/7)
 
 [【CSS进阶】原生JS getComputedStyle等方法解析](https://github.com/chokcoco/cnblogsArticle/issues/5)
 
 [【基础进阶】URL详解与URL编码](https://github.com/chokcoco/cnblogsArticle/issues/6)
+
 
 #### jQuery 源码分析
 [【深入浅出jQuery】源码浅析--整体架构 ](https://github.com/chokcoco/cnblogsArticle/issues/3)
