@@ -7,8 +7,6 @@
 
 ## 文章导航
 
-[【CSS进阶】CSS 颜色体系详解](http://www.cnblogs.com/coco1s/p/5622534.html)
-
 [【前端性能】浅谈域名发散与域名收敛](https://github.com/chokcoco/cnblogsArticle/issues/1)
 
 [【优雅代码】深入浅出 妙用Javascript中apply、call、bind](https://github.com/chokcoco/cnblogsArticle/issues/8)
@@ -18,7 +16,7 @@
 [【基础进阶】URL详解与URL编码](https://github.com/chokcoco/cnblogsArticle/issues/6)
 
 #### CSS
-[【CSS进阶】box-shadow 与 filter:drop-shadow 详解及奇技淫巧](http://sbco.cc/2016/06/14/boxShadow/)
+[【CSS进阶】CSS 颜色体系详解](http://www.cnblogs.com/coco1s/p/5622534.html)
 
 [【CSS进阶】box-shadow 与 filter:drop-shadow 详解及奇技淫巧](http://sbco.cc/2016/06/14/boxShadow/)
 
