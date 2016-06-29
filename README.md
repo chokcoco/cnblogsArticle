@@ -6,6 +6,7 @@
 搞技术的同学还是应该要有所追求，不要满足于消费别人的总结，一定要去源头看看。
 
 ## 文章导航
+[【前端性能】高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/p/5499469.html)
 
 [【前端性能】浅谈域名发散与域名收敛](https://github.com/chokcoco/cnblogsArticle/issues/1)
 
