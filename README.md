@@ -17,6 +17,9 @@
 [【基础进阶】URL详解与URL编码](https://github.com/chokcoco/cnblogsArticle/issues/6)
 
 #### CSS
+
+[【CSS进阶】伪元素的妙用2 - 多列均匀布局及title属性效果](http://www.cnblogs.com/coco1s/p/5667853.html)
+
 [【CSS进阶】CSS 颜色体系详解](http://www.cnblogs.com/coco1s/p/5622534.html)
 
 [【CSS进阶】box-shadow 与 filter:drop-shadow 详解及奇技淫巧](http://sbco.cc/2016/06/14/boxShadow/)
