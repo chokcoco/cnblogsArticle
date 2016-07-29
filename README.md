@@ -1,7 +1,7 @@
 # cnblogsArticle
-在 `Issues` 里移植我博客园里一些我觉得不错的文章，欢迎各位点个 `star` 订阅。
+在 `Issues` 里或者博客园推荐一些我觉得不错的文章，欢迎各位点个 `star` 订阅。
 
-一直在致力于写出更好更棒的文章。
+一直在致力于写出更好的文章。
 
 搞技术的同学还是应该要有所追求，不要满足于消费别人的总结，一定要去源头看看。
 
@@ -15,6 +15,8 @@
 [【nodeJS爬虫】前端爬虫系列 -- 小爬「博客园」](https://github.com/chokcoco/cnblogsArticle/issues/7)
 
 [【基础进阶】URL详解与URL编码](https://github.com/chokcoco/cnblogsArticle/issues/6)
+
+[神秘的 shadow-dom 浅析](http://www.cnblogs.com/coco1s/p/5711795.html)
 
 #### CSS
 
