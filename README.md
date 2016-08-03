@@ -38,6 +38,6 @@
 [【Web动画】CSS3 3D 行星运转 && 浏览器渲染原理](https://github.com/chokcoco/cnblogsArticle/issues/10)
 
 #### jQuery 源码分析
-[【深入浅出jQuery】源码浅析--整体架构 ](https://github.com/chokcoco/cnblogsArticle/issues/3)
+[【深入浅出jQuery】源码浅析--整体架构](https://github.com/chokcoco/cnblogsArticle/issues/3)
 
 [【深入浅出jQuery】源码浅析2--奇技淫巧](https://github.com/chokcoco/cnblogsArticle/issues/4)
