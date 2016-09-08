@@ -35,6 +35,8 @@
 
 [【CSS3 3D 动画】酷炫的3D旋转透视](https://github.com/chokcoco/cnblogsArticle/issues/9)
 
+[【CSS进阶】试试酷炫的 3D 视角](http://www.cnblogs.com/coco1s/p/5847080.html)
+
 [【Web动画】CSS3 3D 行星运转 && 浏览器渲染原理](https://github.com/chokcoco/cnblogsArticle/issues/10)
 
 #### jQuery 源码分析
