@@ -42,6 +42,12 @@
 
 [谈谈一些有趣的CSS题目（六）-- 全兼容的多列均匀布局问题](http://www.cnblogs.com/coco1s/p/5915429.html)
 
+[谈谈一些有趣的CSS题目（七）-- 消失的边界线问题](http://www.cnblogs.com/coco1s/p/5948383.html)
+
+[谈谈一些有趣的CSS题目（八）-- 纯CSS的导航栏Tab切换方案](http://www.cnblogs.com/coco1s/p/5955631.html)
+
+[谈谈一些有趣的CSS题目（九）-- 巧妙的实现 CSS 斜线](http://www.cnblogs.com/coco1s/p/6026009.html)
+
 #### web动画
 [【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
 
