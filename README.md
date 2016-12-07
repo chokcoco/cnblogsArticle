@@ -30,6 +30,8 @@
 
 [【CSS进阶】原生JS getComputedStyle等方法解析](https://github.com/chokcoco/cnblogsArticle/issues/5)
 
+[引人瞩目的 CSS 变量（CSS Variable）](http://www.cnblogs.com/coco1s/p/6068522.html)
+
 [谈谈一些有趣的CSS题目（一）-- 左边竖条的实现方法](http://www.cnblogs.com/coco1s/p/5893921.html)
 
 [谈谈一些有趣的CSS题目（二）-- 从条纹边框的实现谈盒子模型](http://www.cnblogs.com/coco1s/p/5895764.html)
@@ -50,7 +52,6 @@
 
 [谈谈一些有趣的CSS题目（十）-- 结构性伪类选择器](http://www.cnblogs.com/coco1s/p/6067305.html)
 
-[引人瞩目的 CSS 变量（CSS Variable）](http://www.cnblogs.com/coco1s/p/6068522.html)
 
 #### web动画
 [【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
