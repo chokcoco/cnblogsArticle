@@ -52,6 +52,9 @@
 
 [谈谈一些有趣的CSS题目（十）-- 结构性伪类选择器](http://www.cnblogs.com/coco1s/p/6067305.html)
 
+#### SVG
+
+[【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
 
 #### web动画
 [【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
