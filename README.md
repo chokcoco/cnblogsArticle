@@ -52,9 +52,6 @@
 
 [谈谈一些有趣的CSS题目（十）-- 结构性伪类选择器](http://www.cnblogs.com/coco1s/p/6067305.html)
 
-#### SVG
-
-[【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
 
 #### web动画
 [【BOOM】一款有趣的Javascript动画效果](https://github.com/chokcoco/cnblogsArticle/issues/2)
@@ -64,6 +61,8 @@
 [【CSS进阶】试试酷炫的 3D 视角](http://www.cnblogs.com/coco1s/p/5847080.html)
 
 [【Web动画】CSS3 3D 行星运转 && 浏览器渲染原理](https://github.com/chokcoco/cnblogsArticle/issues/10)
+
+[【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
 
 #### jQuery 源码分析
 [【深入浅出jQuery】源码浅析--整体架构](https://github.com/chokcoco/cnblogsArticle/issues/3)
