@@ -6,6 +6,7 @@
 搞技术的同学还是应该要有所追求，不要满足于消费别人的总结，一定要去源头看看。
 
 ## 文章导航
+
 [【前端性能】高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/p/5499469.html)
 
 [【前端性能】浅谈域名发散与域名收敛](https://github.com/chokcoco/cnblogsArticle/issues/1)
@@ -18,7 +19,7 @@
 
 [神秘的 shadow-dom 浅析](http://www.cnblogs.com/coco1s/p/5711795.html)
 
-#### CSS系列
+#### CSS 系列
 
 [【CSS进阶】伪元素的妙用2 - 多列均匀布局及title属性效果](http://www.cnblogs.com/coco1s/p/5667853.html)
 
@@ -53,7 +54,7 @@
 [谈谈一些有趣的CSS题目（十）-- 结构性伪类选择器](http://www.cnblogs.com/coco1s/p/6067305.html)
 
 
-#### web动画
+#### web 动画
 [【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
 
 [【Web动画】SVG 实现复杂线条动画](http://www.cnblogs.com/coco1s/p/6230165.html)
