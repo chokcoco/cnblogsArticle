@@ -53,6 +53,10 @@
 
 [谈谈一些有趣的CSS题目（十）-- 结构性伪类选择器](http://www.cnblogs.com/coco1s/p/6067305.html)
 
+[谈谈一些有趣的CSS题目（十一）-- reset.css 知多少？](http://www.cnblogs.com/coco1s/p/6249038.html)
+
+[谈谈一些有趣的CSS题目（十二）-- 你该知道的字体 font-family](http://www.cnblogs.com/coco1s/p/6253154.html)
+
 
 #### web 动画
 [【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
