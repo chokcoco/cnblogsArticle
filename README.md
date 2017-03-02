@@ -33,6 +33,8 @@
 
 [引人瞩目的 CSS 变量（CSS Variable）](http://www.cnblogs.com/coco1s/p/6068522.html)
 
+[使用 position:sticky 实现粘性布局](http://www.cnblogs.com/coco1s/p/6402723.html)
+
 [谈谈一些有趣的CSS题目（一）-- 左边竖条的实现方法](http://www.cnblogs.com/coco1s/p/5893921.html)
 
 [谈谈一些有趣的CSS题目（二）-- 从条纹边框的实现谈盒子模型](http://www.cnblogs.com/coco1s/p/5895764.html)
