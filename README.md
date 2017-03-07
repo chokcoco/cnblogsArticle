@@ -21,7 +21,7 @@
 
 [神秘的 shadow-dom 浅析](http://www.cnblogs.com/coco1s/p/5711795.html)
 
-[一道面试题引发的对javascript类型转换的思考](https://github.com/chokcoco/cnblogsArticle/issues/15)
+[一道面试题引发的对javascript类型转换的思考](http://www.cnblogs.com/coco1s/p/6509141.html)
 
 #### CSS 系列
 
