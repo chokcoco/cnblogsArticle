@@ -65,6 +65,8 @@
 
 [谈谈一些有趣的CSS题目（十二）-- 你该知道的字体 font-family](http://www.cnblogs.com/coco1s/p/6253154.html)
 
+[谈谈一些有趣的CSS题目（十三）-- 巧妙地制作背景色渐变动画！](http://www.cnblogs.com/coco1s/p/6603403.html)
+
 
 #### web 动画
 [【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
