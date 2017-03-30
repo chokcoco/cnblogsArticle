@@ -67,6 +67,8 @@
 
 [谈谈一些有趣的CSS题目（十三）-- 巧妙地制作背景色渐变动画！](http://www.cnblogs.com/coco1s/p/6603403.html)
 
+[谈谈一些有趣的CSS题目（十四）-- 纯 CSS 方式实现 CSS 动画的暂停与播放！](http://www.cnblogs.com/coco1s/p/6642897.html)
+
 
 #### web 动画
 [【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
