@@ -71,6 +71,8 @@
 
 [谈谈一些有趣的CSS题目（十五）-- 谈谈 CSS 关键字 initial、inherit 和 unset](http://www.cnblogs.com/coco1s/p/6733022.html)
 
+[谈谈一些有趣的CSS题目（十六）-- 奇妙的 background-clip: text](http://www.cnblogs.com/coco1s/p/6802374.html)
+
 
 #### web 动画
 
