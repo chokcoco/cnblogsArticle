@@ -73,6 +73,8 @@
 
 [谈谈一些有趣的CSS题目（十六）-- 奇妙的 background-clip: text](http://www.cnblogs.com/coco1s/p/6802374.html)
 
+[谈谈一些有趣的CSS题目（十七）-- 不可思议的颜色混合模式 mix-blend-mode](http://www.cnblogs.com/coco1s/p/6829372.html)
+
 
 #### web 动画
 
