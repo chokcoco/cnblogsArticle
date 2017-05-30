@@ -69,6 +69,8 @@
 
 [谈谈一些有趣的CSS题目（十四）-- 纯 CSS 方式实现 CSS 动画的暂停与播放！](http://www.cnblogs.com/coco1s/p/6642897.html)
 
+[谈谈一些有趣的CSS题目（十五）-- 谈谈 CSS 关键字 initial、inherit 和 unset](http://www.cnblogs.com/coco1s/p/6733022.html)
+
 
 #### web 动画
 
