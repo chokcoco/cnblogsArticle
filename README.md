@@ -75,6 +75,9 @@
 
 [谈谈一些有趣的CSS题目（十七）-- 不可思议的颜色混合模式 mix-blend-mode](http://www.cnblogs.com/coco1s/p/6829372.html)
 
+[奇妙的 CSS shapes(CSS图形)](http://www.cnblogs.com/coco1s/p/6992177.html)
+
+[神奇的 conic-gradient 圆锥渐变](http://www.cnblogs.com/coco1s/p/7079529.html)
 
 #### web 动画
 
