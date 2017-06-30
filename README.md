@@ -40,8 +40,6 @@
 
 [使用 position:sticky 实现粘性布局](http://www.cnblogs.com/coco1s/p/6402723.html)
 
-[深入探讨 CSS 特性检测 @supports 与 Modernizr](http://www.cnblogs.com/coco1s/p/6478389.html)
-
 [谈谈一些有趣的CSS题目（一）-- 左边竖条的实现方法](http://www.cnblogs.com/coco1s/p/5893921.html)
 
 [谈谈一些有趣的CSS题目（二）-- 从条纹边框的实现谈盒子模型](http://www.cnblogs.com/coco1s/p/5895764.html)
@@ -75,6 +73,8 @@
 [谈谈一些有趣的CSS题目（十六）-- 奇妙的 background-clip: text](http://www.cnblogs.com/coco1s/p/6802374.html)
 
 [谈谈一些有趣的CSS题目（十七）-- 不可思议的颜色混合模式 mix-blend-mode](http://www.cnblogs.com/coco1s/p/6829372.html)
+
+[深入探讨 CSS 特性检测 @supports 与 Modernizr](http://www.cnblogs.com/coco1s/p/6478389.html)
 
 [奇妙的 CSS shapes(CSS图形)](http://www.cnblogs.com/coco1s/p/6992177.html)
 
