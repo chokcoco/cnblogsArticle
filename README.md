@@ -80,6 +80,8 @@
 
 [神奇的 conic-gradient 圆锥渐变](http://www.cnblogs.com/coco1s/p/7079529.html)
 
+[纯 CSS 实现波浪效果！](http://www.cnblogs.com/coco1s/p/7197662.html)
+
 #### web 动画
 
 [【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
