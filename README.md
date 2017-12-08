@@ -24,6 +24,8 @@
 
 [一道面试题引发的对javascript类型转换的思考](http://www.cnblogs.com/coco1s/p/6509141.html)
 
+[【前端工具】Chrome 扩展程序的开发与发布 -- 手把手教你开发扩展程序](https://github.com/chokcoco/cnblogsArticle/issues/16)
+
 #### CSS 系列
 
 [【CSS进阶】伪元素的妙用2 - 多列均匀布局及title属性效果](http://www.cnblogs.com/coco1s/p/5667853.html)
