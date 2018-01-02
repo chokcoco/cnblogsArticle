@@ -28,6 +28,8 @@
 
 [Web 动画帧率（FPS）计算](https://github.com/chokcoco/cnblogsArticle/issues/17)
 
+Canvas 海量粒子瞬时渲染及动态改变的优化方案
+
 #### CSS 系列
 
 [【CSS进阶】伪元素的妙用2 - 多列均匀布局及title属性效果](http://www.cnblogs.com/coco1s/p/5667853.html)
