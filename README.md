@@ -112,7 +112,7 @@
 
 [【前端安全】JavaScript防http劫持与XSS](http://www.cnblogs.com/coco1s/p/5777260.html)
 
-### 区块链
+### 区块链闲聊
 
 [区块链 PoW 与 PoS 的纷争](https://github.com/chokcoco/cnblogsArticle/issues/20)
 
