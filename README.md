@@ -118,6 +118,4 @@
 
 [理解区块链1.0 2.0 3.0 ](https://github.com/chokcoco/cnblogsArticle/issues/21)
 
-[区块链价值讨论与知识学习]()
-
-[【区块链之链入门】公有链、联盟链、私有链、跨链与侧链]()
+[【区块链之链入门】公有链、联盟链、私有链、跨链与侧链](https://github.com/chokcoco/cnblogsArticle/issues/22)
