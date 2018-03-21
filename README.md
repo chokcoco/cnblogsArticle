@@ -119,3 +119,5 @@
 [理解区块链1.0 2.0 3.0 ](https://github.com/chokcoco/cnblogsArticle/issues/21)
 
 [【区块链之链入门】公有链、联盟链、私有链、跨链与侧链](https://github.com/chokcoco/cnblogsArticle/issues/22)
+
+[从零开始学习以太坊编程（一）-- 环境准备与基础知识](https://github.com/chokcoco/cnblogsArticle/issues/23)
