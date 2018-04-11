@@ -87,7 +87,7 @@
 
 [纯 CSS 实现波浪效果！](http://www.cnblogs.com/coco1s/p/7197662.html)
 
-[2018年3月27日不可思议的纯CSS导航栏下划线跟随效果](http://www.cnblogs.com/coco1s/p/8657192.html)
+[不可思议的纯CSS导航栏下划线跟随效果](http://www.cnblogs.com/coco1s/p/8657192.html)
 
 #### web 动画
 
