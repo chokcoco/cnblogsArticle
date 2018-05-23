@@ -89,6 +89,8 @@
 
 [不可思议的纯CSS导航栏下划线跟随效果](http://www.cnblogs.com/coco1s/p/8657192.html)
 
+[妙用 scale 与 transfrom-origin，精准控制动画方向](http://www.cnblogs.com/coco1s/p/8882542.html)
+
 #### web 动画
 
 [【Web动画】SVG 线条动画入门](http://www.cnblogs.com/coco1s/p/6225973.html)
