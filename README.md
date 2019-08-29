@@ -28,6 +28,8 @@
 
 [Web 动画帧率（FPS）计算](https://github.com/chokcoco/cnblogsArticle/issues/17)
 
+[前端基础知识概述 -- 移动端开发的兼容适配与性能优化](https://github.com/chokcoco/cnblogsArticle/issues/25)
+
 
 #### CSS 系列
 
