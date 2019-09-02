@@ -10,6 +10,9 @@
 
 #### 闲谈
 
+
+[前端基础知识概述 -- 移动端开发的兼容适配与性能优化](https://github.com/chokcoco/cnblogsArticle/issues/25)
+
 [【前端性能】高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/p/5499469.html)
 
 [【前端性能】浅谈域名发散与域名收敛](https://github.com/chokcoco/cnblogsArticle/issues/1)
@@ -28,7 +31,6 @@
 
 [Web 动画帧率（FPS）计算](https://github.com/chokcoco/cnblogsArticle/issues/17)
 
-[前端基础知识概述 -- 移动端开发的兼容适配与性能优化](https://github.com/chokcoco/cnblogsArticle/issues/25)
 
 
 #### CSS 系列
