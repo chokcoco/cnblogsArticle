@@ -10,6 +10,8 @@
 
 #### 闲谈
 
+[SVG 滤镜从入门到放弃](https://github.com/chokcoco/cnblogsArticle/issues/27)
+
 [Web用户体验提升指南](https://github.com/chokcoco/cnblogsArticle/issues/26)
 
 [前端基础知识概述 -- 移动端开发的兼容适配与性能优化](https://github.com/chokcoco/cnblogsArticle/issues/25)
